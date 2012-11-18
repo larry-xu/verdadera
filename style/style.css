@@ -51,5 +51,14 @@ body {
 
 .issues td a {
 	color: #707070;
+	
+	transition: color .1s ease-in-out;
+    -moz-transition: color .1s ease-in-out;
+    -webkit-transition: color .1s ease-in-out;
+    
 	text-decoration: none;
+}
+
+.issues td a:hover {
+	color: black;
 }
