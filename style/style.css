@@ -36,6 +36,7 @@ body {
 
 .issues caption {
 	font-size:larger;
+	
 	margin-bottom:1%;
 }
 
@@ -44,4 +45,8 @@ body {
 	padding-bottom: 5px;
 	padding-left: 15px;
 	padding-right: 15px;
+}
+
+.issues td a {
+	text-decoration: none;
 }
