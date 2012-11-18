@@ -6,3 +6,19 @@ body {
 	font-family: "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
 	line-height: 5px;
 }
+
+.header h1 {
+	color: #525252;
+	
+    transition: color .2s ease-in-out;
+    -moz-transition: color .2s ease-in-out;
+    -webkit-transition: color .2s ease-in-out;
+    
+    display: inline;
+    font-size: 32px;
+    text-decoration: none
+}
+
+.header h1:hover {
+    color: #B3B3B3;
+}
