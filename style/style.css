@@ -8,7 +8,7 @@ body {
 	line-height: 5px;
 	
 	margin-top:8%;
-	margin-left:15%;
+	margin-left:12%;
 }
 
 .header h1 {
@@ -30,7 +30,8 @@ body {
 .issues table {
 	margin-top:2%;
 	margin-bottom:4%;
-	margin-left:15%;
+	margin-left:12%;
+	margin-right:12%;
 }
 
 .issues caption {
@@ -40,8 +41,8 @@ body {
 }
 
 .issues td {
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 6px;
+	padding-bottom: 6px;
 	padding-left: 15px;
 	padding-right: 15px;
 }
