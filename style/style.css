@@ -5,6 +5,9 @@ body {
 .header {
 	font-family: "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
 	line-height: 5px;
+	
+	margin-top:10%;
+	margin-left:20%;
 }
 
 .header h1 {
