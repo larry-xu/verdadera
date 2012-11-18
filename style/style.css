@@ -36,3 +36,8 @@ body {
 .issues caption {
 	font-size:larger;
 }
+
+.issues td {
+	padding-left: 15px;
+	padding-right: 15px;
+}
