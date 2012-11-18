@@ -27,6 +27,9 @@ body {
 }
 
 .issues table {
+	font-family: "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	
 	margin-top:2%;
 	margin-left:15%;
 }
+
