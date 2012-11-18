@@ -25,3 +25,8 @@ body {
 .header h1:hover {
     color: #B3B3B3;
 }
+
+.issues table {
+	margin-top:8%;
+	margin-left:15%;
+}
