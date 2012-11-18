@@ -50,5 +50,6 @@ body {
 }
 
 .issues td a {
+	color: #707070;
 	text-decoration: none;
 }
