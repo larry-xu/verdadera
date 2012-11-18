@@ -1,3 +1,8 @@
 body {
+	background-color: #E6E6E6;
+}
 
+#pagetitle {
+	font-family: "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	line-height: 5px;
 }
