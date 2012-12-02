@@ -1,0 +1,73 @@
+body {
+	background-color: #E6E6E6;
+	
+	font-family: "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.header {
+	line-height: 5px;
+	
+	margin-top:8%;
+	margin-left:12%;
+}
+
+.header h1 {
+	color: #525252;
+	
+    transition: color .2s ease-in-out;
+    -moz-transition: color .2s ease-in-out;
+    -webkit-transition: color .2s ease-in-out;
+    
+    display: inline;
+    font-size: 32px;
+    text-decoration: none
+}
+
+.header h1:hover {
+    color: #B3B3B3;
+}
+
+.issues table {
+	margin-top:2%;
+	margin-bottom:4%;
+	margin-left:12%;
+	margin-right:12%;
+}
+
+.issues caption {
+	font-size:larger;
+	
+	margin-bottom:2%;
+}
+
+.issues td {
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.issues td a {
+	color: #707070;
+	
+	transition: color .1s ease-in-out;
+    -moz-transition: color .1s ease-in-out;
+    -webkit-transition: color .1s ease-in-out;
+    
+	text-decoration: none;
+}
+
+.issues td a:hover {
+	color: black;
+}
+
+.issues th {
+	color: black;
+	
+	padding: 8px;
+}
+
+.footer {
+	font-size: smaller;
+	text-align: center;
+}
