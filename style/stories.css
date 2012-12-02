@@ -1,0 +1,18 @@
+#stories{
+	background : #EEEEEE;
+}
+ul {
+	list-style-type : none;
+}
+ul li a {
+	display: block;
+	width: 100px;
+	height: 150px;
+	background: #666666;
+	float: left;
+	margin: 20px;
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	line-height: 40px;
+}
