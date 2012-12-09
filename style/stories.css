@@ -1,3 +1,12 @@
+#header{
+	line-height: 5px;
+	margin-top:8%;
+	margin-left:12%;
+}
+body{
+	font-family: "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	background-color: #E6E6E6;
+}
 #stories{
 	background : #EEEEEE;
 }
@@ -27,7 +36,7 @@ ul li a {
     float : left;
     min-width : 960px;
     background:#9b7a49;
-    border: 1px solid #000;
+    border: 3px solid rgba(0,0,0,0.7);
     padding-left: 20px;
 }
 .months{
@@ -43,4 +52,9 @@ ul li a {
     text-align: center;
 }
 .year{
+}
+.footer{
+	float : right;
+	width : 100%;
+	text-align: center;
 }
